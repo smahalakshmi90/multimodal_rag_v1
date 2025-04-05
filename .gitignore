@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.env/
+.venv/
+
+# Project-specific
+pdfs/
+figures/
+.streamlit/
+
+# OS-specific
+.DS_Store
+Thumbs.db 
